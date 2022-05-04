@@ -1,0 +1,1 @@
+import{d as s,c,a as n,b as t,o as r}from"./index.a1d2607c.js";const _={class:"choose-area"},m=s({setup(p){const o=e=>{console.log(e)};return(e,l)=>{const a=t("vt-choose-area");return r(),c("div",_,[n(a,{onChange:o})])}}});export{m as default};

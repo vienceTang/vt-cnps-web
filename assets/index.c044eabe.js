@@ -1,0 +1,1 @@
+import{d as a,c as r,a as i,b as l,o as _}from"./index.a1d2607c.js";const d={class:"choose-time"},g=a({setup(p){const o=e=>{console.log(e)},t=e=>{console.log(e)},n={size:"large",editable:!0},s={size:"large",editable:!0};return(e,m)=>{const c=l("vt-choose-time");return _(),r("div",d,[i(c,{startOptions:n,endOptions:s,onStartChange:o,onEndChange:t})])}}});export{g as default};
