@@ -1,0 +1,1 @@
+import{d as n,c as s,a,b as r,o as _}from"./index.971e6909.js";const i={class:"choose-city"},m=n({setup(l){const e=o=>{console.log(o)},t=o=>{console.log(o)};return(o,p)=>{const c=r("vt-choose-city");return _(),s("div",i,[a(c,{onChangeCityByAlphabe:e,onChangeCityByProvinces:t})])}}});export{m as default};
